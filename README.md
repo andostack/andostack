@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 <p>
-I'm a systems technologist with more than 2 years of experience in software development, where I have contributed with Full Stack developments in projects for products under the Scrum framework while communicating in English with people from other countries and using technologies such as PHP, HTML, CSS, Javascript and MySQL. I also have knowledge of some other technologies that I have studied for my university courses and personal projects, such as React, Java, C#, SQL, etc.
+I have more than 2 years of experience in software development, where I have contributed with Full Stack developments in projects for products under the Scrum framework while communicating in English with people from other countries.
 </p>
 
 <h3 align="left">Connect with me:</h3>
