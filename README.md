@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Full stack developer from Colombia</h3>
 <p align="center">
 I have more than 2 years of experience in Full Stack software development, where I have contributed with developments in projects for products under the Scrum framework while communicating in English with people from other countries.
 </p>
