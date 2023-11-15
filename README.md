@@ -25,3 +25,5 @@ If you're looking for a collaborator who brings a mix of technical expertise and
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-rojas-rodriguez/). Let's embark on this coding adventure together! 🌟
 
 Happy coding! 🚁✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejo-Rojas-R&show_icons=true&theme=dark)
