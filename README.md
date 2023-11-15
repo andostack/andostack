@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate Full stack developer from Colombia</h3>
-<p align="center">
-I have more than 2 years of experience in Full Stack software development, where I have contributed with developments in projects for products under the Scrum framework while communicating in English with people from other countries.
-</p>
+# 👋 Hello World! I'm Alejandro
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+Welcome to my coding playground! 🚀 As a full-stack developer with over 3 years of experience, I'm on a mission to turn caffeine into code and dreams into digital reality. 🌐✨
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/alejandro-rojas-rodriguez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/alejandro-rojas-rodriguez/" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack
+
+- 💡 Frontend: React, HTML, CSS, JavaScript
+- 🛠️ Backend: Java, PHP
+- 🗃️ Database: MySQL, SQL, MongoDB, ElasticSearch
+
+## 🤔 Who Am I?
+
+I'm a creative problem solver. 🎨 When faced with a challenge, I don't just see it as a bug to fix; I see it as an opportunity to craft a solution that's not only functional but elegant. 💡
+
+## 🔍 What Sets Me Apart
+
+- 🚀 Passion for innovation and staying on the cutting edge.
+- 🧠 Creative thinking that turns ordinary projects into extraordinary ones.
+- 🤖 Love for automation - because why do manually what a script can do for you?
+
+## 🌈 Let's Build Something Amazing!
+
+If you're looking for a collaborator who brings a mix of technical expertise and creative flair to the table, you've come to the right place. Let's code something awesome together! 🚀👨‍💻
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-rojas-rodriguez/). Let's embark on this coding adventure together! 🌟
+
+Happy coding! 🚁✨
