@@ -27,3 +27,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro
 Happy coding! 🚁✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejo-Rojas-R&show_icons=true&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=Alejo-Rojas-R&color=grey&style=flat-square)
