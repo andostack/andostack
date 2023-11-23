@@ -6,7 +6,7 @@ Welcome to my coding playground! 🚀 As a full-stack developer with over 3 year
 
 - 🛠️ Backend: Java, PHP
 - 💡 Frontend: React, HTML, CSS
-- 🗃️ Database: MySQL, SQL, MongoDB, ElasticSearch
+- 🗃️ Database: MySQL, SQL, MongoDB
 
 ## 🤔 Who Am I?
 
