@@ -4,8 +4,8 @@ Welcome to my coding playground! 🚀 As a full-stack developer with over 3 year
 
 ## 💻 Tech Stack
 
-- 💡 Frontend: React, HTML, CSS, JavaScript
 - 🛠️ Backend: Java, PHP
+- 💡 Frontend: React, HTML, CSS
 - 🗃️ Database: MySQL, SQL, MongoDB, ElasticSearch
 
 ## 🤔 Who Am I?
