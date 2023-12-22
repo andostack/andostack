@@ -19,7 +19,9 @@ As a full-stack developer with over 3 years of experience, I'm on a mission to t
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-rojas-rodriguez/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejo-Rojas-R&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo-Rojas-R&layout=compact&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejo-Rojas-R&show_icons=false&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=Alejo-Rojas-R&color=grey&style=flat-square)
 
