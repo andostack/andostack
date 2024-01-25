@@ -4,8 +4,8 @@ As a full-stack developer with over 3 years of experience, I'm on a mission to t
 
 ## 💻 Tech Stack
 
-- 🛠️ Backend: Java, PHP, C#
-- 💡 Frontend: React, HTML, CSS
+- 🛠️ Backend: Java, PHP, Node.js
+- 💡 Frontend: React.js, HTML, CSS
 - 🗃️ Database: MySQL, SQL, MongoDB
 
 ## 🤔 Who Am I?
