@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Alejandro
 
-As a full-stack developer with over 3 years of experience, I'm on a mission to turn caffeine into code and dreams into digital reality. 🌐✨
+As a full-stack developer with over 3 years of experience, I'm on a mission to turn dreams into digital reality. ✨
 
 ## 💻 Tech Stack
 
