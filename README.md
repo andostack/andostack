@@ -13,7 +13,6 @@ As a full-stack developer with over 3 years of experience, I'm on a mission to t
 - 🎨 I'm a creative problem solver. 
 - 🚀 I have a passion for innovation and staying on the cutting edge.
 - 🧠 I'm a creative thinker who turns ordinary projects into extraordinary ones.
-- 🔎 I see bugs as opportunities to craft solutions that are not only functional but elegant.
 
 ## If you'd like to collaborate let's connect and code something awesome together! 🚀👨‍💻
 
